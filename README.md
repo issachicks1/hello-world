@@ -1,2 +1,3 @@
 # hello-world
-learning how to use github
+This is the file where I learn how to use Github
+What an exciting time to be alive
